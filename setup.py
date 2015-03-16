@@ -3,7 +3,7 @@ from distutils.core import setup
 
 setup(
     name='thumbor-s3',
-    version='0.1.0',
+    version='0.1.1',
     author='Björn Häuser',
     author_email='b.haeuser@rebuy.de',
     packages=['thumbor_s3'],
