@@ -1,0 +1,5 @@
+derpconf==0.7.3
+freezegun==0.3.7
+thumbor==6.1.5
+tornado==4.1
+pyVows==2.0.6
