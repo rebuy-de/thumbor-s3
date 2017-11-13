@@ -2,16 +2,6 @@
 Thumbor S3 File Loader
 =======================================
 
-Uses boto to retrieve images from S3 to use with `thumbor <https://github.com/thumbor/thumbor>`_.
+Please use aws plugin from thumbor community: https://github.com/thumbor-community/aws
 
-Only useful if the S3 assets are not public available.
-
-Config looks like this:
-```
-S3_LOADER_BUCKETS = {
-  '<bucketname>': {
-    'base': '/',
-    'region': 'eu-west-1'
-  }
-}
-```
+It has the same functionality and adds a tone of new features on top of it.
